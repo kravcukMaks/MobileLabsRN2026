@@ -11,7 +11,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.oleksii.lab1",
+      "package": "com.maksim.lab1",
       "adaptiveIcon": {
         "backgroundColor": "#ffffff"
       },

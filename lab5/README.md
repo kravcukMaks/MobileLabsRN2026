@@ -9,7 +9,7 @@
 
 1. **Клонування репозиторію:**
    ```bash
-   git clone <посилання_на_ваш_репозиторій>
+   git clone https://github.com/kravcukMaks/MobileLabsRN2026.git
    cd lab5
    ```
 2. **Встановлення залежностей:**

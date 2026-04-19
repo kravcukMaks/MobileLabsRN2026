@@ -43,10 +43,10 @@
 
 | Екран реєстрації | | Екран входу | Каталог товарів | Деталі товару |
 
-| ![Реєстрація](/assets/screenshots/register.jpg)
-| ![Вхід](/assets/screenshots/login.jpg)
-| ![Каталог](/assets/screenshots/index.jpg)
-| ![Деталі](/assets/screenshots/details.jpg)
+![Реєстрація](assets/screenshots/register.jpg)
+![Вхід](assets/screenshots/login.jpg)
+![Каталог](assets/screenshots/index.jpg)
+![Деталі](assets/screenshots/details.jpg)
 
 ---
 
